@@ -1,6 +1,6 @@
 +++
 date = '2025-09-26T16:52:06+02:00'
-draft = true
+draft = false
 title = 'My First Post'
 +++
 # My first page in HUGO 
