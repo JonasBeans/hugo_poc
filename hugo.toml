@@ -7,3 +7,6 @@ path = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+[caches]
+    [caches.images]
+        dir = ':cacheDir/images'
