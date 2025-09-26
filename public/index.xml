@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 26 Sep 2025 16:52:06 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>//localhost:1313/posts/my-first-post/</link>
+      <pubDate>Fri, 26 Sep 2025 16:52:06 +0200</pubDate>
+      <guid>//localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;my-first-page-in-hugo&#34;&gt;My first page in HUGO&lt;/h1&gt;&#xA;&lt;p&gt;This the the first page in my journey to discover all the benefits of using HUGO. My first impressions are good.It was fast to install go with the scoop package manager. After that installing hugo-extended was also very straight forward. Hopefully it is all uphill from here!&lt;/p&gt;&#xA;&lt;h2 id=&#34;update&#34;&gt;Update&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>
