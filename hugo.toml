@@ -9,7 +9,7 @@ disable = false
 ignoreConfig = false
 ignoreImports = false
 path = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
-baseURL = 'https://example.org/'
+baseURL = 'https://hugo.poc.bytesbyboon.be/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 [caches]
