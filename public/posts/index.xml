@@ -6,14 +6,28 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Sep 2025 16:52:06 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 11:41:08 +0200</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring the new framework</title>
+      <link>//localhost:1313/posts/exploring_the_new_framework/</link>
+      <pubDate>Mon, 29 Sep 2025 11:41:08 +0200</pubDate>
+      <guid>//localhost:1313/posts/exploring_the_new_framework/</guid>
+      <description>&lt;h1 id=&#34;exploring-hugo&#34;&gt;Exploring HUGO&lt;/h1&gt;&#xA;&lt;p&gt;I&amp;rsquo;m finding all kind of new ways to use this framework.&#xA;For example&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Add new content</title>
+      <link>//localhost:1313/posts/add_new_pages/</link>
+      <pubDate>Mon, 29 Sep 2025 11:32:08 +0200</pubDate>
+      <guid>//localhost:1313/posts/add_new_pages/</guid>
+      <description>&lt;h1 id=&#34;please-help-how-do-i-add-new-content&#34;&gt;Please help! How do I add new content?&lt;/h1&gt;&#xA;&lt;p&gt;I wanted to add new content to the CMS, but didn&amp;rsquo;t know how.&lt;/p&gt;&#xA;&lt;p&gt;But yeah you can just do &amp;ndash;help and get some pretty usefull stuff.&lt;/p&gt;&#xA;&lt;p&gt;Apparantly to add new content you can use this command:&#xA;&lt;code&gt;hugo new {folder}/{conent-name}.md&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>//localhost:1313/posts/my-first-post/</link>
       <pubDate>Fri, 26 Sep 2025 16:52:06 +0200</pubDate>
       <guid>//localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;my-first-page-in-hugo&#34;&gt;My first page in HUGO&lt;/h1&gt;&#xA;&lt;p&gt;This the the first page in my journey to discover all the benefits of using HUGO. My first impressions are good.It was fast to install go with the scoop package manager. After that installing hugo-extended was also very straight forward. Hopefully it is all uphill from here!&lt;/p&gt;&#xA;&lt;h2 id=&#34;update&#34;&gt;Update&lt;/h2&gt;</description>
+      <description>&lt;h1 id=&#34;my-first-page-in-hugo&#34;&gt;My first page in HUGO&lt;/h1&gt;&#xA;&lt;p&gt;This the the first page in my journey to discover all the benefits of using HUGO. My first impressions are good.It was fast to install go with the scoop package manager. After that installing hugo-extended was also very straight forward. Hopefully it is all uphill from here!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
